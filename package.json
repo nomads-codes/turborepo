@@ -8,6 +8,8 @@
   ],
   "scripts": {
     "build": "turbo run build",
+    "dev:docs": "turbo run dev --scope=\"docs\"",
+    "dev:web": "turbo run dev --scope=\"web\"",
     "dev": "turbo run dev --parallel",
     "lint": "turbo run lint",
     "format": "prettier --write \"**/*.{js,md}\""
