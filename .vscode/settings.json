@@ -1,11 +1,20 @@
 {
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "spellright.language": [
+    "en"
+  ],
+  "spellright.documentTypes": [
+    "markdown"
+  ],
   "files.exclude": {
     "**/.git": false,
     "**/.svn": false,
     "**/.hg": false,
     "**/CVS": false,
     "**/.DS_Store": false,
-    "**/Thumbs.db": false,
-    "**/docs/node_modules": true,
+    "**/Thumbs.db": false
   }
 }

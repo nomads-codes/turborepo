@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "davidanson.vscode-markdownlint",
+    "yzhang.markdown-all-in-one",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "ban.spellright",
+    "stripe.vscode-stripe",
+    "prisma.prisma",
+    "bradlc.vscode-tailwindcss"
+  ]
+}
