@@ -4,11 +4,35 @@
   "main": "index.js",
   "license": "MIT",
   "files": [
-    "eslint-preset.js"
+    "eslint-preset.js",
+    "prettier-preset.js",
+    "tailwind-preset.js"
   ],
+  "devDependencies": {
+    "eslint": "^8.11.0",
+    "@tailwindcss/forms": "^0.5.0",
+    "@tailwindcss/typography": "^0.5.2",
+    "@trivago/prettier-plugin-sort-imports": "3.2.0",
+    "prettier-plugin-tailwindcss": "^0.1.8",
+    "prettier": "^2.5.1",
+    "tailwindcss": "^3.0.23"
+  },
   "dependencies": {
+    "@types/eslint": "latest",
+    "@types/next": "latest",
+    "@types/node-sass": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "@types/sass": "latest",
+    "@types/typescript": "latest",
+    "eslint": "latest",
     "eslint-config-next": "^12.0.8",
-    "eslint-config-prettier": "^8.3.0",
-    "eslint-plugin-react": "7.28.0"
+    "eslint-plugin-playwright": "^0.8.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-react": "7.28.0",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "typescript": "latest"
   }
 }
