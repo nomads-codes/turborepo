@@ -12,26 +12,26 @@
     "@tailwindcss/forms": "^0.5.0",
     "@tailwindcss/typography": "^0.5.2",
     "@trivago/prettier-plugin-sort-imports": "3.2.0",
-    "eslint": "^8.11.0",
-    "prettier": "^2.5.1",
-    "prettier-plugin-tailwindcss": "^0.1.8",
-    "tailwindcss": "^3.0.23"
+    "eslint": "^8.14.0",
+    "prettier": "^2.6.2",
+    "prettier-plugin-tailwindcss": "^0.1.10",
+    "tailwindcss": "^3.0.24"
   },
   "dependencies": {
-    "@types/eslint": "latest",
-    "@types/node-sass": "latest",
-    "@types/react": "latest",
-    "@types/react-dom": "latest",
-    "@types/sass": "latest",
-    "@types/typescript": "latest",
-    "eslint": "latest",
-    "eslint-config-next": "^12.0.8",
+    "@types/eslint": "^8.4.1",
+    "@types/node-sass": "^4.11.2",
+    "@types/react": "^18.0.6",
+    "@types/react-dom": "^18.0.2",
+    "@types/sass": "^1.43.1",
+    "@types/typescript": "^2.0.0",
+    "eslint": "^8.14.0",
+    "eslint-config-next": "^12.1.5",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-playwright": "^0.8.0",
-    "eslint-plugin-react": "7.28.0",
-    "next": "latest",
-    "react": "latest",
-    "react-dom": "latest",
-    "typescript": "latest"
+    "eslint-plugin-react": "7.29.4",
+    "next": "^12.1.5",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "typescript": "^4.6.3"
   }
 }
