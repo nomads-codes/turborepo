@@ -9,12 +9,12 @@
     "tailwind-preset.js"
   ],
   "devDependencies": {
-    "eslint": "^8.11.0",
     "@tailwindcss/forms": "^0.5.0",
     "@tailwindcss/typography": "^0.5.2",
     "@trivago/prettier-plugin-sort-imports": "3.2.0",
-    "prettier-plugin-tailwindcss": "^0.1.8",
+    "eslint": "^8.11.0",
     "prettier": "^2.5.1",
+    "prettier-plugin-tailwindcss": "^0.1.8",
     "tailwindcss": "^3.0.23"
   },
   "dependencies": {
@@ -26,8 +26,8 @@
     "@types/typescript": "latest",
     "eslint": "latest",
     "eslint-config-next": "^12.0.8",
-    "eslint-plugin-playwright": "^0.8.0",
     "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-playwright": "^0.8.0",
     "eslint-plugin-react": "7.28.0",
     "next": "latest",
     "react": "latest",

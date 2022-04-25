@@ -24,5 +24,5 @@
     "npm": ">=8.1.2",
     "node": ">=v16.13.1"
   },
-  "packageManager": "yarn@1.22.18"
+  "packageManager": "yarn@3.2.0"
 }
